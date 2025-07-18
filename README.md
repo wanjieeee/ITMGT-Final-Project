@@ -11,7 +11,7 @@ By creating a simple offline chess game using python, allowing two individuals t
 ## Python Chess Game
 This is a program that runs a chess game using only Python using its **pygame** library.
 
-<img width="996" height="1015" alt="image" src="https://github.com/user-attachments/assets/cbfeefa1-e560-493f-8433-2888a081ee58" />
+<img width="589" height="615" alt="image" src="https://github.com/user-attachments/assets/cbfeefa1-e560-493f-8433-2888a081ee58" />
 
 ### Requirements
 To start this project, it required us these three important components:
@@ -28,6 +28,7 @@ This simple chess platform has the following features:
 * A "play again" button to restart the game.
 
 ### Some Screenshots
-insert screenshots here
+You can see some screenshots of our project [here](
+
 
 
