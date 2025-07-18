@@ -31,6 +31,6 @@ This simple chess platform has the following features:
 You can see some screenshots of our project [here](https://github.com/wanjieeee/ITMGT-Final-Project/blob/main/screenshots.md).
 
 ### Our Process of Game Development
-You may read our narrative of developing the chess game [here]().
+You may read our narrative of developing the chess game [here](https://github.com/wanjieeee/ITMGT-Final-Project/blob/main/game_developmet.md).
 
 
