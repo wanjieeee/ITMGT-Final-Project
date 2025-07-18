@@ -57,3 +57,9 @@ Functions such as possible_moves() determine valid moves for each piece type, wh
 The game.py file now serves as the main control point for the game. It manages displaying the game menu and end screen, running the core game loop ( start_game() ), resetting the board through self.chess.reset(), and calling visual updates such as draw_pieces() and play_turn().
 
 By keeping the game loop free of core logic (which is in chess.py), the application remains clean and modular. This approach also made it easier to introduce new features such as the timer, turn display text at the top of the screen, and the exit button.
+
+In the end, we gained a lot from this project as it allowed us to apply the concepts and ideas we learned in class into actual practice. Throughout the process, we were challenged to apply our knowledge, think critically, and actually come up with solutions to problems we have encountered along the way. Through cooperation, we deepened our understanding of the topics in python programming, turned such theories into working code, and saw how what we studied could be used to create something functional. This experience solidified our learning, improved our problem-solving skills, and gave us a stronger grasp of how to approach real-world tasks using what we know.
+
+
+## References
+Tutorial we used: https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&si=9RfoV5YvS8OQJiEo
